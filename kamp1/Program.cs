@@ -19,8 +19,9 @@ double amount = 10000.5;
 
 bool isAthenticated = false;//backendden gelen data veri
 Console.WriteLine(message1);
-
-
+//Taha
+//Can
+Console.WriteLine(message2);
 //condition 
 
 if(isAthenticated)
